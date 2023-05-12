@@ -1,0 +1,107 @@
+
+Development of a portable force plate for the analysis of ground reaction force
+in beach sports
+
+1. Introduction
+There appears to be a growing popularity for beach sports like beach volleyball, -soccer,
+-handball and footvolley. In those sports, athletes are faced with different surface conditions (1,
+2). Especially dry uncompacted sand has high absorptive qualities which result in a decrease in
+the force returned from the muscles (3). Thus, it has been shown that there are significant
+differences in spike jump movement in beach volleyball compared to volleyball. These
+differences appear in the maximum jump height, the velocity of the centre of mass, the
+countermovement, the angular amplitudes of the lower limbs and other kinematic parameters
+(4, 5, 1). However, optimal force production either vertically in beach volleyball or horizontally
+in beach handball is essential for competitive success. To predict and measure the performance
+of an athlete in this quality a vertical jump test is needed (4–7, 2). Currently, this is tested
+primarily on solid ground on indoor force plates as this is the ‘gold standard’ for measuring
+jumping performance (8, 9), but not in the sand. It is argued that the jump height on solid ground
+is in direct correlation with the jump height in the sand (4), but this is not shown for ground
+reaction forces or kinematics of the lower limbs, which are important determinants for jump
+performance (4, 5). There are other devices used, such as the yardstick jumping device (4, 10),
+“My Jump” application (8), jump and reach test (7), motion capturing systems (11, 12) or
+accelerometry (13), which have their downsides as they can only test static jumps, like squat
+jump or countermovement jump, and do not provide information about the force development.
+Some studies developed custom measurement devices by building sandboxes placed on a force
+plate, which are reported to be heavy (120 kg), stationary, used for a single study and only
+conduct static jumps (5, 14, 7, 11).
+
+As it is shown, there is a solution missing to measure sport-specific jumps in the sand and
+provide essential information about force development of the lower extremities. Therefore, the
+task was to develop a portable force plate apparatus, which can provide important data to
+athletes and coaches about the jump performance of beach sports athletes.
+
+2. Methods
+Important for the validity, reliability and comparability of the measurements are the physical
+properties of the sand. These include the moisture content, relative density (compaction rate),
+grain size distribution and stiffness (5, 15, 13). To determine these, a moisture meter and a
+penetrometer (16) are necessary. The FIVB and IHF also provide requirements about the grain
+size distribution (17–19). For the horizontal and vertical ground reaction forces a piezoelectric
+force plate is used.
+
+3. Results and discussion
+The device is dimensioned by 60 x 60 x 40 cm. It provides a shovel for digging a hole in the
+court and a stick for stirring the sand inside the box. The apparatus includes a piezoelectric
+force plate at the bottom of the device, which can be covered with sand, a moisture sensor for
+measuring the moisture content of the sand and a penetrometer for determining the compaction
+rate and density. The validity, reliability and comparability of the force curves have to be tested
+in field situations. Nevertheless, this device can provide more insight into the biomechanics and
+kinematics of jump performance for athletes, coaches and future research on this topic.
+
+Literature Cited
+1. Tilp M, Wagner H, Müller E. Differences in 3D kinematics between volleyball and beach volleyball
+spike movements. Sports Biomech 2008; 7(3):386–97.
+2. Hammami M, Bragazzi NL, Hermassi S, Gaamouri N, Aouadi R, Shephard RJ et al. The effect of a
+sand surface on physical performance responses of junior male handball players to plyometric training.
+BMC Sports Sci Med Rehabil 2020; 12:26.
+3. Barrett RS, Neal RJ, Roberts LJ. The dynamic loading response of surfaces encountered in beach
+running. Journal of Science and Medicine in Sport 1998; 1(1):1–11.
+4. Bishop D. A comparison between land and sand-based tests for beach volleyball assessment. The
+Journal of sports medicine and physical fitness 2003; 43(4):418–23. Available from: URL:
+https://www.researchgate.net/profile/david-johnbishop/
+publication/8883111_a_comparison_between_land_and_sandbased_
+tests_for_beach_volleyball_assessment.
+5. Giatsis G, Panoutsakopoulos V, Kollias IA. Biomechanical differences of arm swing
+countermovement jumps on sand and rigid surface performed by elite beach volleyball players. J
+Sports Sci 2018; 36(9):997–1008.
+6. Helena Bykova, Yevgeniya Strelnykova, Irina Pomeschikova, Tamara Liakhova. Changes of the
+level of high-speed and power abilities of beach handball players of 14–15 years old as a result of the
+specially selective exercises. ARCHIV 2015; (6(50)):26–29-26–29. Available from: URL:
+http://journals.uran.ua/sport_herald/article/view/59186.
+7. Giatsis G, Panoutsakopoulos V, Kollias IA. Drop Jumping on Sand Is Characterized by Lower
+Power, Higher Rate of Force Development and Larger Knee Joint Range of Motion. J Funct Morphol
+Kinesiol 2022; 7(1).
+8. Driller M, Tavares F, McMaster D, O’Donnell S. Assessing a smartphone application to measure
+counter-movement jumps in recreational athletes. International Journal of Sports Science & Coaching
+2017; 12(5):661–4.
+9. Volleyball Canada. Beach Volleyball Physical Testing Protocoll.
+10. Brooks ER, Benson AC, Bruce LM. Novel Technologies Found to be Valid and Reliable for the
+Measurement of Vertical Jump Height With Jump-and-Reach Testing. J Strength Cond Res 2018;
+32(10):2838–45. Available from: URL: https://journals.lww.com/nscajscr/
+fulltext/2018/10000/novel_technologies_found_to_be_valid_and_reliable.18.aspx.
+11. Eils E, Wirtz S, Brodatzki Y, Zentgraf K, Büsch D, Szwajca S. Optimizing the transition from the
+indoor to the beach season improves motor performance in elite beach handball players. Ger J Exerc
+Sport Res 2022; 52(4):637–46.
+12. Norbert Sibum. Entwicklung einer komplexen Leistungsdiagnostik im Beachvolleyball; 2011.
+( vol 42). Available from: URL: https://www.researchgate.net/profile/norbertsibum/
+publication/307195510_entwicklung_einer_komplexen_leistungsdiagnostik_im_beachvolleybal
+l.
+13. Hayati H, Eager D, Peham C, Qi Y. Dynamic Behaviour of High Performance of Sand Surfaces
+Used in the Sports Industry. Vibration 2020; 3(4):410–24.
+14. Giatsis G, Kollias I, Panoutsakopoulos V, Papaiakovou G. Biomechanical differences in elite
+beach-volleyball players in vertical squat jump on rigid and sand surface. Sports Biomech 2004;
+3(1):145–58.
+Jonathan Sonnen, sonnen@kth.se
+3
+15. Rodney S. Barrett, Cassius D'Helon, Robert J. Neal. DETERMINING THE GROUND
+REACTION FORCE EXPERIENCED IN BEACH RUNNING. ISBS-CPA 1998. Available from:
+URL: https://ojs.ub.uni-konstanz.de/cpa/article/view/1592.
+16. Thiel DV, Worsey MTO, Klodzinski F, Emerson N, Espinosa HG. A Penetrometer for Quantifying
+the Surface Stiffness of Sport Sand Surfaces. In: The 13th Conference of the International Sports
+Engineering Association. Basel Switzerland: MDPI; 2020. p. 64.
+17. FIVB. Official Beach Volleyball Rules 2021-2024. Paris, Fédération Internationale de Volleyball,
+2021b.
+18. IHF. IHF | Regulations Documents | Rules of the Game (Beach Handball); 2023 [cited 2023 Apr
+18]. Available from: URL: https://www.ihf.info/regulationsdocuments/
+361?selected=Rules%20of%20the%20Game.
+19. BISP. Planung und Bau von Beach-Sportanlagen: eine Orientierungshilfe des Bundesinstituts für
+Sportwissenschaft; 2009.
